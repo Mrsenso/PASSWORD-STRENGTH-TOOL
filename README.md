@@ -17,6 +17,9 @@ A comprehensive Python tool for evaluating password security and strength.
 - ✅ Multiple input modes (interactive, command-line, file)
 - ✅ Professional security researcher banner
 
+## CONTRIBUTION
+This project still neeed much modifications and contribution, I'm sincerly welcoming anyone to contribute to this project for community  purposes.
+
 ## Installation
 
 ```bash
