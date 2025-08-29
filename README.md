@@ -25,7 +25,7 @@ This project still neeed much modifications and contribution, I'm sincerly welco
 ```bash
 # Clone the repository
 git clone https://github.com/https://github.com/Mrsenso/PASSWORD-STRENGTH-TOOL.git
-cd password-strength-checker
+cd password-checker
 
 # Make the script executable
-chmod +x password_checker.py
+chmod +x password.py
