@@ -21,7 +21,7 @@ A comprehensive Python tool for evaluating password security and strength.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Mrsenso/password-strength-checker.git
+git clone https://github.com/https://github.com/Mrsenso/PASSWORD-STRENGTH-TOOL.git
 cd password-strength-checker
 
 # Make the script executable
